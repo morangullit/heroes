@@ -5,7 +5,7 @@ export const DcPage = () => {
   return (
 
     <>
-      <h1>Dc Page</h1>
+      <h1>Marvel DC</h1>
       <hr />
 
 
